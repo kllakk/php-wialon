@@ -2,6 +2,7 @@
     "name": "kllakk/php-wialon",
     "description": "PHP Wialon library",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "kllakk",
