@@ -8,5 +8,10 @@
             "email": "ma@ctoh.net"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "kllakk\\wialon\\": ""
+        }
+    },
     "require": {}
 }

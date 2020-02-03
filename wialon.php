@@ -1,4 +1,7 @@
 <?php
+
+	namespace kllakk\wialon;
+
 	/* Classes for working with Wialon RemoteApi using PHP
 	*
 	* License:
