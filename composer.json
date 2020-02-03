@@ -1,0 +1,12 @@
+{
+    "name": "kllakk/php-wialon",
+    "description": "PHP Wialon library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "kllakk",
+            "email": "ma@ctoh.net"
+        }
+    ],
+    "require": {}
+}
